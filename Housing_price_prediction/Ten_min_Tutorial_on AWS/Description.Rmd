@@ -1,0 +1,10 @@
+Deploy Code to a Virtual Machine
+with AWS CodeDeploy
+
+In this tutorial, I learn how to deploy application code to a virtual machine on AWS. I use AWS CodeDeploy, a service that automates code deployments to AWS or on-premises servers, to deploy code to virtual machines that you create and manage with Amazon EC2. 
+Everything done in this tutorial is free tier eligible.
+
+
+For more, information visit to the given link below.
+
+https://aws.amazon.com/getting-started/tutorials/deploy-code-vm/?trk=gs_card
